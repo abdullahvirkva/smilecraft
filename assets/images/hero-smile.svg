@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" role="img" aria-label="Friendly smiling tooth illustration with dental care icons">
+  <defs>
+    <linearGradient id="blobG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DDF5F0"/>
+      <stop offset="1" stop-color="#E9F2F7"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0D7A70" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <!-- backdrop blob -->
+  <path d="M320 40 C 470 40 600 150 600 300 C 600 450 470 530 320 530 C 170 530 40 450 40 300 C 40 150 170 40 320 40 Z" fill="url(#blobG)"/>
+  <!-- dotted ring -->
+  <circle cx="320" cy="290" r="212" fill="none" stroke="#0D7A70" stroke-width="2.5" stroke-dasharray="2 12" stroke-linecap="round" opacity="0.45"/>
+
+  <!-- floating card: shield check (top right) -->
+  <g filter="url(#soft)">
+    <rect x="452" y="96" width="150" height="64" rx="16" fill="#ffffff"/>
+    <circle cx="484" cy="128" r="17" fill="#DDF5F0"/>
+    <path d="M484 118 l7 7 12 -13" fill="none" stroke="#0D7A70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="510" y="118" width="72" height="10" rx="5" fill="#0C2B3E" opacity="0.85"/>
+    <rect x="510" y="134" width="48" height="8" rx="4" fill="#647E93" opacity="0.5"/>
+  </g>
+
+  <!-- floating card: calendar (bottom left) -->
+  <g filter="url(#soft)">
+    <rect x="38" y="392" width="158" height="66" rx="16" fill="#ffffff"/>
+    <rect x="58" y="410" width="34" height="32" rx="8" fill="#0D7A70"/>
+    <path d="M64 410 v-8 M86 410 v-8" stroke="#0D7A70" stroke-width="5" stroke-linecap="round"/>
+    <rect x="100" y="412" width="76" height="10" rx="5" fill="#0C2B3E" opacity="0.85"/>
+    <rect x="100" y="428" width="56" height="8" rx="4" fill="#647E93" opacity="0.5"/>
+  </g>
+
+  <!-- THE TOOTH -->
+  <g transform="translate(320 285) scale(1.55)" filter="url(#soft)">
+    <ellipse cx="0" cy="-52" rx="98" ry="84" fill="#ffffff"/>
+    <rect x="-72" y="-34" width="54" height="140" rx="27" fill="#ffffff" transform="rotate(7 -45 36)"/>
+    <rect x="18" y="-34" width="54" height="140" rx="27" fill="#ffffff" transform="rotate(-7 45 36)"/>
+    <!-- shine -->
+    <ellipse cx="-52" cy="-88" rx="26" ry="14" fill="#DDF5F0" transform="rotate(-24)"/>
+    <!-- face -->
+    <path d="M-38 -58 q10 -12 20 0" fill="none" stroke="#0C2B3E" stroke-width="7" stroke-linecap="round"/>
+    <path d="M18 -58 q10 -12 20 0" fill="none" stroke="#0C2B3E" stroke-width="7" stroke-linecap="round"/>
+    <path d="M-24 -18 q24 26 48 0" fill="none" stroke="#0C2B3E" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="-52" cy="-30" r="11" fill="#FFB3A0" opacity="0.8"/>
+    <circle cx="52" cy="-30" r="11" fill="#FFB3A0" opacity="0.8"/>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#3ED6BE">
+    <path d="M120 180 c1.5-8 3-9.5 11-11 c-8-1.5-9.5-3-11-11 c-1.5 8-3 9.5-11 11 c8 1.5 9.5 3 11 11 Z"/>
+    <path d="M528 330 c1.2-6.5 2.4-7.7 8.9-8.9 c-6.5-1.2-7.7-2.4-8.9-8.9 c-1.2 6.5-2.4 7.7-8.9 8.9 c6.5 1.2 7.7 2.4 8.9 8.9 Z"/>
+    <path d="M500 470 c1-5.4 2-6.4 7.4-7.4 c-5.4-1-6.4-2-7.4-7.4 c-1 5.4-2 6.4-7.4 7.4 c5.4 1 6.4 2 7.4 7.4 Z"/>
+  </g>
+  <g fill="#F5A623">
+    <path d="M150 350 c1.2-6.5 2.4-7.7 8.9-8.9 c-6.5-1.2-7.7-2.4-8.9-8.9 c-1.2 6.5-2.4 7.7-8.9 8.9 c6.5 1.2 7.7 2.4 8.9 8.9 Z"/>
+  </g>
+
+  <!-- small dots -->
+  <g fill="#0D7A70" opacity="0.35">
+    <circle cx="200" cy="120" r="7"/>
+    <circle cx="470" cy="220" r="5"/>
+    <circle cx="560" cy="150" r="8"/>
+    <circle cx="90" cy="300" r="5"/>
+  </g>
+</svg>

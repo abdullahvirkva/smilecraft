@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" role="img" aria-label="Portrait illustration of a female dentist with dark hair in a bun">
+  <circle cx="150" cy="150" r="132" fill="#DDF5F0"/>
+  <!-- back hair + bun -->
+  <circle cx="150" cy="44" r="27" fill="#23272E"/>
+  <path d="M86 152 C78 76 108 40 150 40 C192 40 222 76 214 152 L200 152 C202 100 180 66 150 66 C120 66 98 100 100 152 Z" fill="#23272E"/>
+  <!-- shoulders / scrubs -->
+  <path d="M38 360 C38 282 92 250 150 250 C208 250 262 282 262 360 Z" fill="#0D7A70"/>
+  <polygon points="128,262 150,298 172,262" fill="#095E56"/>
+  <rect x="196" y="306" width="34" height="22" rx="6" fill="#ffffff"/>
+  <rect x="201" y="312" width="24" height="5" rx="2.5" fill="#0D7A70" opacity="0.6"/>
+  <!-- neck + head -->
+  <rect x="132" y="200" width="36" height="56" rx="10" fill="#8A5738"/>
+  <ellipse cx="150" cy="150" rx="62" ry="72" fill="#A06844"/>
+  <circle cx="88" cy="156" r="11" fill="#A06844"/>
+  <circle cx="212" cy="156" r="11" fill="#A06844"/>
+  <!-- fringe -->
+  <path d="M90 138 C92 96 118 74 150 74 C182 74 208 96 210 138 C196 116 184 112 172 118 C160 108 140 106 128 114 C114 110 100 120 90 138 Z" fill="#23272E"/>
+  <!-- face -->
+  <rect x="112" y="128" width="26" height="7" rx="3.5" fill="#23272E"/>
+  <rect x="162" y="128" width="26" height="7" rx="3.5" fill="#23272E"/>
+  <ellipse cx="125" cy="152" rx="8" ry="10" fill="#1F2A33"/>
+  <ellipse cx="175" cy="152" rx="8" ry="10" fill="#1F2A33"/>
+  <circle cx="128" cy="149" r="2.6" fill="#ffffff"/>
+  <circle cx="178" cy="149" r="2.6" fill="#ffffff"/>
+  <ellipse cx="106" cy="182" rx="10" ry="6" fill="#E88B7A" opacity="0.55"/>
+  <ellipse cx="194" cy="182" rx="10" ry="6" fill="#E88B7A" opacity="0.55"/>
+  <path d="M146 166 q6 9 -1 14" fill="none" stroke="#7A4A2E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M128 196 q22 17 44 0" fill="none" stroke="#5E3520" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- earrings -->
+  <circle cx="88" cy="172" r="4.5" fill="#F5A623"/>
+  <circle cx="212" cy="172" r="4.5" fill="#F5A623"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" role="img" aria-label="Portrait illustration of a male dentist with short hair and beard">
+  <circle cx="150" cy="150" r="132" fill="#E9F2F7"/>
+  <!-- shoulders / scrubs -->
+  <path d="M38 360 C38 282 92 250 150 250 C208 250 262 282 262 360 Z" fill="#17456B"/>
+  <polygon points="128,262 150,298 172,262" fill="#0F2F4C"/>
+  <rect x="196" y="306" width="34" height="22" rx="6" fill="#ffffff"/>
+  <rect x="201" y="312" width="24" height="5" rx="2.5" fill="#17456B" opacity="0.6"/>
+  <!-- neck + head -->
+  <rect x="132" y="200" width="36" height="56" rx="10" fill="#A9714B"/>
+  <ellipse cx="150" cy="150" rx="62" ry="72" fill="#C68863"/>
+  <circle cx="88" cy="156" r="11" fill="#C68863"/>
+  <circle cx="212" cy="156" r="11" fill="#C68863"/>
+  <!-- short hair -->
+  <path d="M88 146 C84 74 116 48 150 48 C184 48 216 74 212 146 C208 106 190 88 150 88 C110 88 92 106 88 146 Z" fill="#23272E"/>
+  <!-- beard -->
+  <path d="M90 168 C92 222 118 240 150 240 C182 240 208 222 210 168 C207 202 190 216 150 216 C110 216 93 202 90 168 Z" fill="#2E333B"/>
+  <ellipse cx="150" cy="192" rx="30" ry="20" fill="#C68863"/>
+  <!-- face -->
+  <rect x="112" y="126" width="26" height="7" rx="3.5" fill="#23272E"/>
+  <rect x="162" y="126" width="26" height="7" rx="3.5" fill="#23272E"/>
+  <ellipse cx="125" cy="150" rx="8" ry="10" fill="#1F2A33"/>
+  <ellipse cx="175" cy="150" rx="8" ry="10" fill="#1F2A33"/>
+  <circle cx="128" cy="147" r="2.6" fill="#ffffff"/>
+  <circle cx="178" cy="147" r="2.6" fill="#ffffff"/>
+  <path d="M146 162 q6 9 -1 14" fill="none" stroke="#8A5738" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 194 q18 13 36 0" fill="none" stroke="#4A2C17" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

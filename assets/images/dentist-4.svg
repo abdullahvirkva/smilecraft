@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" role="img" aria-label="Portrait illustration of a male dentist wearing glasses">
+  <circle cx="150" cy="150" r="132" fill="#E9F2F7"/>
+  <!-- shoulders / scrubs -->
+  <path d="M38 360 C38 282 92 250 150 250 C208 250 262 282 262 360 Z" fill="#0D7A70"/>
+  <polygon points="128,262 150,298 172,262" fill="#095E56"/>
+  <rect x="196" y="306" width="34" height="22" rx="6" fill="#ffffff"/>
+  <rect x="201" y="312" width="24" height="5" rx="2.5" fill="#0D7A70" opacity="0.6"/>
+  <!-- neck + head -->
+  <rect x="132" y="200" width="36" height="56" rx="10" fill="#5E3620"/>
+  <ellipse cx="150" cy="150" rx="62" ry="72" fill="#7A4A2E"/>
+  <circle cx="88" cy="156" r="11" fill="#7A4A2E"/>
+  <circle cx="212" cy="156" r="11" fill="#7A4A2E"/>
+  <!-- very short hair -->
+  <path d="M90 132 C94 84 118 62 150 62 C182 62 206 84 210 132 C200 100 178 88 150 88 C122 88 100 100 90 132 Z" fill="#1B1E23"/>
+  <!-- glasses -->
+  <g fill="none" stroke="#0C2B3E" stroke-width="5">
+    <circle cx="125" cy="152" r="21"/>
+    <circle cx="175" cy="152" r="21"/>
+    <line x1="146" y1="152" x2="154" y2="152"/>
+    <line x1="104" y1="148" x2="90" y2="142"/>
+    <line x1="196" y1="148" x2="210" y2="142"/>
+  </g>
+  <!-- face -->
+  <ellipse cx="125" cy="152" rx="7" ry="9" fill="#1F2A33"/>
+  <ellipse cx="175" cy="152" rx="7" ry="9" fill="#1F2A33"/>
+  <circle cx="127" cy="149" r="2.4" fill="#ffffff"/>
+  <circle cx="177" cy="149" r="2.4" fill="#ffffff"/>
+  <ellipse cx="106" cy="184" rx="10" ry="6" fill="#C97A5E" opacity="0.5"/>
+  <ellipse cx="194" cy="184" rx="10" ry="6" fill="#C97A5E" opacity="0.5"/>
+  <path d="M146 166 q6 9 -1 14" fill="none" stroke="#4A2A16" stroke-width="4" stroke-linecap="round"/>
+  <path d="M128 198 q22 17 44 0" fill="none" stroke="#3A2110" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

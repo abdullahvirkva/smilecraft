@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Tooth with orthodontic braces">
+  <circle cx="200" cy="150" r="120" fill="#E9F2F7"/>
+  <g transform="translate(200 150) scale(0.95)">
+    <ellipse cx="0" cy="-52" rx="98" ry="84" fill="#ffffff"/>
+    <rect x="-72" y="-34" width="54" height="140" rx="27" fill="#ffffff" transform="rotate(7 -45 36)"/>
+    <rect x="18" y="-34" width="54" height="140" rx="27" fill="#ffffff" transform="rotate(-7 45 36)"/>
+    <!-- braces -->
+    <line x1="-92" y1="-40" x2="92" y2="-40" stroke="#8FA3B0" stroke-width="7"/>
+    <g fill="#C7D3DC" stroke="#8FA3B0" stroke-width="3">
+      <rect x="-78" y="-58" width="34" height="36" rx="8"/>
+      <rect x="-30" y="-58" width="34" height="36" rx="8"/>
+      <rect x="18" y="-58" width="34" height="36" rx="8"/>
+      <rect x="62" y="-58" width="30" height="36" rx="8"/>
+    </g>
+    <g fill="#0D7A70">
+      <circle cx="-61" cy="-40" r="5"/>
+      <circle cx="-13" cy="-40" r="5"/>
+      <circle cx="35" cy="-40" r="5"/>
+      <circle cx="77" cy="-40" r="5"/>
+    </g>
+    <path d="M-24 6 q24 24 48 0" fill="none" stroke="#0D7A70" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
